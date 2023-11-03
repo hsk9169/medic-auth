@@ -1,0 +1,10 @@
+
+docs/*.go
+docs/*.json
+docs/*.yaml
+
+mocks/
+
+logs/
+
+.idea/
